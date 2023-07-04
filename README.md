@@ -3,7 +3,7 @@
 ![](https://img.shields.io/github/license/g-rppl/spring_migDist)
 [![DOI](https://zenodo.org/badge/592222892.svg)](https://zenodo.org/badge/latestdoi/592222892)
 
-This repository contains data and code to reproduce results from Rüppel, G., Hüppop, O., Schmaljohann, H. & Brust, V. (2023). The urge to breed early: Similar responses to environmental conditions in short- and long-distance migrants during spring migration. *Ecology and Evolution*, **13**, e10223. [https://doi.org/10.1002/ece3.10223](https://doi.org/10.1002/ece3.10223).
+This repository contains data and code to reproduce results from Rüppel, G., Hüppop, O., Schmaljohann, H. & Brust, V. (2023). The urge to breed early: Similar responses to environmental conditions in short- and long-distance migrants during spring migration. *Ecology and Evolution*, **13**, e10223. [https://doi.org/10.1002/ece3.10223](https://doi.org/10.1002/ece3.10223)
 
 ## Abstract
 
